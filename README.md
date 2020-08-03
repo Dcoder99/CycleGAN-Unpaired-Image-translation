@@ -1,5 +1,5 @@
 # CycleGAN-Unpaired-Image-translation 
-With tensorflow 1.0.0
+(With tensorflow 1.0.0 and Python3)     
 Image to Image translation involves generating a new synthetic version of a given image with some modifications. Obtaining and constructing paired image datasets is  expensive and sometimes impossible. This project implements Cycle GAN to achieve image translation from Apple to Orange and Horse to Zebra and vice versa.
 
 ## Introduction
