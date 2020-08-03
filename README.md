@@ -61,7 +61,7 @@ CycleGAN has several important applications:
 - Photo generation from paintings
 
 ## References
-[1]https://arxiv.org/pdf/1703.10593.pdf
-[2]https://machinelearningmastery.com/what-is-cyclegan/
-[3]https://www.youtube.com/watch?v=NyAosnNQv_U&t=553s
-[4]https://machinelearningmastery.com/what-is-cyclegan/
+[1]https://arxiv.org/pdf/1703.10593.pdf   
+[2]https://machinelearningmastery.com/what-is-cyclegan/   
+[3]https://www.youtube.com/watch?v=NyAosnNQv_U&t=553s   
+[4]https://machinelearningmastery.com/what-is-cyclegan/   
