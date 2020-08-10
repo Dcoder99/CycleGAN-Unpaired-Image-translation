@@ -1,6 +1,7 @@
 # CycleGAN-Unpaired-Image-translation    
 [![GitHub license](https://img.shields.io/github/license/DeepikaKaranji/CycleGAN-Unpaired-Image-translation)](https://github.com/DeepikaKaranji/CycleGAN-Unpaired-Image-translation/blob/master/LICENSE)
-[![Generic badge](https://img.shields.io/badge/tensorflow-1.0.0-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/tensorflow-1.0.0-blue.svg)](https://shields.io/)  
+
 Image to Image translation involves generating a new synthetic version of a given image with some modifications. Obtaining and constructing paired image datasets is  expensive and sometimes impossible. This project implements Cycle GAN to achieve image translation from Apple to Orange with Tensorflow 1.0.0 and Python3. 
 
 ## Introduction
